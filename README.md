@@ -1,6 +1,6 @@
-# FitTrack Policy Pages
+# MyHealthDiary Policy Pages
 
-このリポジトリは、FitTrackアプリケーションの利用規約とプライバシーポリシーをGitHub Pagesで公開するためのものです。
+このリポジトリは、MyHealthDiaryアプリケーションの利用規約とプライバシーポリシーをGitHub Pagesで公開するためのものです。
 
 ## 📋 公開されているページ
 
@@ -92,7 +92,7 @@ GitHub Actionsワークフローにより、`main`ブランチへのプッシュ
 
 ## 📱 アプリとの連携
 
-FitTrackアプリの設定画面から以下のURLにアクセスできます：
+MyHealthDiaryアプリの設定画面から以下のURLにアクセスできます：
 
 ```dart
 // 利用規約
