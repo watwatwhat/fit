@@ -1,6 +1,6 @@
-# MyHealthDiary Policy Pages
+# Karamo Policy Pages
 
-このリポジトリは、MyHealthDiaryアプリケーションの利用規約とプライバシーポリシーをGitHub Pagesで公開するためのものです。
+このリポジトリは、Karamoアプリケーションの利用規約とプライバシーポリシーをGitHub Pagesで公開するためのものです。
 
 ## 📋 公開されているページ
 
@@ -92,7 +92,7 @@ GitHub Actionsワークフローにより、`main`ブランチへのプッシュ
 
 ## 📱 アプリとの連携
 
-MyHealthDiaryアプリの設定画面から以下のURLにアクセスできます：
+Karamoアプリの設定画面から以下のURLにアクセスできます：
 
 ```dart
 // 利用規約
